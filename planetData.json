@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Mercury",
+        "pronunciation": "/ˈmɜːrkjʊri/",
+        "gravity": 3.7,
+        "escapeVelocity": 4.25,
+        "minTemperature": -173,
+        "meanTemperature": 67,
+        "maxTemperature": 427,
+        "description": "This is Mercury",
+        "imageURL": "mercury"
+    },
+    {
+        "name": "Venus",
+        "pronunciation": "/ˈviːnəs/",
+        "gravity": 8.87,
+        "escapeVelocity": 10.36,
+        "minTemperature": 0,
+        "meanTemperature": 0,
+        "maxTemperature": 464,
+        "description": "This is Venus",
+        "imageURL": "venus"
+    },
+    {
+        "name": "Earth",
+        "pronunciation": "",
+        "gravity": 9.81,
+        "escapeVelocity": 11.186,
+        "minTemperature": -89.2,
+        "meanTemperature": 14.76,
+        "maxTemperature": 56.7,
+        "description": "This is Earth",
+        "imageURL": "earth"
+    },
+    {
+        "name": "Mars",
+        "pronunciation": "",
+        "gravity": 3.72,
+        "escapeVelocity": 5.027,
+        "minTemperature": -110,
+        "meanTemperature": -60,
+        "maxTemperature": 35,
+        "description": "This is Mars",
+        "imageURL": "mars"
+    },
+    {
+        "name": "Jupiter",
+        "pronunciation": "/ˈdʒuːpɪtər/",
+        "gravity": 24.79,
+        "escapeVelocity": 59.5,
+        "minTemperature": 0,
+        "meanTemperature": -108,
+        "maxTemperature": 0,
+        "description": "This is Jupiter",
+        "imageURL": "jupiter"
+    },
+    {
+        "name": "Saturn",
+        "pronunciation": "/ˈsætərn/",
+        "gravity": 10.44,
+        "escapeVelocity": 35.5,
+        "minTemperature": 0,
+        "meanTemperature": -139,
+        "maxTemperature": 0,
+        "description": "This is Saturn",
+        "imageURL": "saturn"
+    },
+    {
+        "name": "Uranus",
+        "pronunciation": "/ˈjʊərənəs/",
+        "gravity": 8.69,
+        "escapeVelocity": 21.3,
+        "minTemperature": 0,
+        "meanTemperature": -197.2,
+        "maxTemperature": 0,
+        "description": "This is Uranus",
+        "imageURL": "uranus"
+    },
+    {
+        "name": "Neptune",
+        "pronunciation": "/ˈnɛptjuːn/",
+        "gravity": 11.15,
+        "escapeVelocity": 23.5,
+        "minTemperature": 0,
+        "meanTemperature": -201,
+        "maxTemperature": 0,
+        "description": "This is Neptune",
+        "imageURL": "neptune"
+    }
+]
+
+ 
