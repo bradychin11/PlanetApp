@@ -4,10 +4,11 @@
         "pronunciation": "/ˈmɜːrkjʊri/",
         "gravity": 3.7,
         "escapeVelocity": 4.25,
-        "minTemperature": -173,
-        "meanTemperature": 67,
-        "maxTemperature": 427,
+        "surfaceTemperature": 427,
+        "orbitalDistance": 57.9,
+        "orbitalPeriod": 88.0,
         "description": "This is Mercury",
+        "funFact": "Although the surface temperature of Mercury is 400+ degrees celsius, there is ice on it's surface in permanently shadowed craters that never receive sunlight.",
         "imageURL": "mercury"
     },
     {
@@ -15,10 +16,11 @@
         "pronunciation": "/ˈviːnəs/",
         "gravity": 8.87,
         "escapeVelocity": 10.36,
-        "minTemperature": 0,
-        "meanTemperature": 0,
-        "maxTemperature": 464,
+        "surfaceTemperature": 462,
+        "orbitalDistance": 108.2,
+        "orbitalPeriod": 224.7,
         "description": "This is Venus",
+        "funFact": "The hottest and brightest planet in our solar system. It was named for the Roman Goddess of Love.",
         "imageURL": "venus"
     },
     {
@@ -26,10 +28,11 @@
         "pronunciation": "",
         "gravity": 9.81,
         "escapeVelocity": 11.186,
-        "minTemperature": -89.2,
-        "meanTemperature": 14.76,
-        "maxTemperature": 56.7,
+        "surfaceTemperature": 14.76,
+        "orbitalDistance": 149.6,
+        "orbitalPeriod": 365.2,
         "description": "This is Earth",
+        "funFact": "The only planet that sustains life. 70% of it's surface is covered with water.",
         "imageURL": "earth"
     },
     {
@@ -37,10 +40,11 @@
         "pronunciation": "",
         "gravity": 3.72,
         "escapeVelocity": 5.027,
-        "minTemperature": -110,
-        "meanTemperature": -60,
-        "maxTemperature": 35,
+        "surfaceTemperature": -63,
+        "orbitalDistance": 227.9,
+        "orbitalPeriod": 1.9,
         "description": "This is Mars",
+        "funFact": "Mars had a thicker atmosphere in the past.",
         "imageURL": "mars"
     },
     {
@@ -48,10 +52,11 @@
         "pronunciation": "/ˈdʒuːpɪtər/",
         "gravity": 24.79,
         "escapeVelocity": 59.5,
-        "minTemperature": 0,
-        "meanTemperature": -108,
-        "maxTemperature": 0,
+        "surfaceTemperature": -108,
+        "orbitalDistance": 778.3,
+        "orbitalPeriod": 11.9,
         "description": "This is Jupiter",
+        "funFact": "Jupiter protects Earth by catching or diverting asteroids that come within it's vicinity.",
         "imageURL": "jupiter"
     },
     {
@@ -59,10 +64,11 @@
         "pronunciation": "/ˈsætərn/",
         "gravity": 10.44,
         "escapeVelocity": 35.5,
-        "minTemperature": 0,
-        "meanTemperature": -139,
-        "maxTemperature": 0,
+        "surfaceTemperature": -139,
+        "orbitalDistance": 1.4,
+        "orbitalPeriod": 29.5,
         "description": "This is Saturn",
+        "funFact": "Furthest planet from the sun that can be seen from Earth without a telescope.",
         "imageURL": "saturn"
     },
     {
@@ -70,10 +76,11 @@
         "pronunciation": "/ˈjʊərənəs/",
         "gravity": 8.69,
         "escapeVelocity": 21.3,
-        "minTemperature": 0,
-        "meanTemperature": -197.2,
-        "maxTemperature": 0,
+        "surfaceTemperature": -197.2,
+        "orbitalDistance": 2.9,
+        "orbitalPeriod": 84.0,
         "description": "This is Uranus",
+        "funFact": "Orbits laying on it's side",
         "imageURL": "uranus"
     },
     {
@@ -81,10 +88,11 @@
         "pronunciation": "/ˈnɛptjuːn/",
         "gravity": 11.15,
         "escapeVelocity": 23.5,
-        "minTemperature": 0,
-        "meanTemperature": -201,
-        "maxTemperature": 0,
+        "surfaceTemperature": -201,
+        "orbitalDistance": 4.5,
+        "orbitalPeriod": 164.8,
         "description": "This is Neptune",
+        "funFact": "Known as the windy planet with wind speeds up to 1200 mph.",
         "imageURL": "neptune"
     }
 ]
